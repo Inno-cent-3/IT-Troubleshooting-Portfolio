@@ -18,6 +18,21 @@ October 18, 2026
 - Intel Wireless-AC 9560 Wireless Adapter
 - Home Wi-Fi Network
 
+---
+
+## Skills Demonstrated
+
+- Windows Troubleshooting
+- Network Troubleshooting
+- DHCP Analysis
+- ARP Analysis
+- Route Verification
+- Wi‑Fi Troubleshooting
+- Problem Isolation
+- Documentation
+
+---
+
 > Note: All IP addresses, MAC addresses, SSIDs, and network identifiers have been replaced with example values for privacy.
 
 ---
