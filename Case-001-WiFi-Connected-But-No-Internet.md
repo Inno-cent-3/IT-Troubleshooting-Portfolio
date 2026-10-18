@@ -1,4 +1,4 @@
-# Case 001 - Windows PC Connected to Wi-Fi but No Internet Access
+# Case 001 - Windows PC Connected to Wi‑Fi but Unable to Access the Internet
 
 ## Status
 
